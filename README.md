@@ -14,11 +14,6 @@
   - [RF MEMS Switch](https://github.com/javyNadeem/Package-Delivery-Pathfinding-Algorithm)
   - [RF MEMS Varactor](https://github.com/javyNadeem/Package-Delivery-Pathfinding-Algorithm)
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="javaria-nadeem-5294a547 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/javaria-nadeem-5294a547
 
 <!--
 **javyNadeem/javyNadeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
