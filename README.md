@@ -6,7 +6,7 @@
   - [Fighting Covid19 with CAIML](https://github.com/JavyNadeem/10-funded-projects.git)
   - [Remote Monitoring Technology for Healthcare](https://github.com/javyNadeem/Algorithms-Practice)
   
- - <b>Articles on Engineering Domain</b>
+- <b>Articles on Engineering Domain</b>
   - [Autonomous Robot Service](https://github.com/javyNadeem/Sentinel-Lab)
   - [Geothermal Heat Pumps](https://github.com/javyNadeem/Jwipe.PowerShell)
 
