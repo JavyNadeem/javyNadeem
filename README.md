@@ -3,6 +3,7 @@
 <h2>👨‍💻 Technical Writing Project Samples:</h2>
 
 - <b>Tech Blogs and Articles</b>
+  - [10 funded startups in Pakistan](https://github.com/JavyNadeem/10-funded-projects.git)
   - [Autonomous Robot Service Blog](https://github.com/javyNadeem/Algorithms-Practice)
   - [Artificial Intelligence Website Builders](https://github.com/javyNadeem/AD_PS)
   - [Fighting COVID19 with CAIML](https://github.com/javyNadeem/AD_PS)
