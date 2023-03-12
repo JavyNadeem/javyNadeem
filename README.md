@@ -1,4 +1,4 @@
-<h1>Hi, I'm Javaria! <br/><a href="https://github.com/javyNadeem1">SEO Content Writer</a>, <a href="https://www.linkedin.com/in/javaria-nadeem/">Writing Professional</a></h1>
+<h1>Hi, I'm Javaria! <br/><a href="https://github.com/javyNadeem1">SEO Content Writer</a>, <a href="https://www.linkedin.com/in/javaria-nadeem-5294a547/">Writing Professional</a></h1>
 
 <h2>👨‍💻 Content Writing Portfolio</h2>
 
