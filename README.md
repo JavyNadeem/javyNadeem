@@ -1,12 +1,12 @@
 <h1>Hi, I'm Javaria! <br/><a href="https://github.com/javyNadeem1">Technical Writer</a>, <a href="https://www.linkedin.com/in/javaria-nadeem/">Writing Professional</a></h1>
 
-<h2>👨‍💻 Technical Writing Project Samples:</h2>
+<h2>👨‍💻 Content Writing Project Samples:</h2>
 
-- <b>Tech Blogs and Articles</b>
-  - [10 funded startups in Pakistan](https://github.com/JavyNadeem/10-funded-projects.git)
-  - [Autonomous Robot Service Blog](https://github.com/javyNadeem/Algorithms-Practice)
+- <b>Articles on Healthcare Domain</b>
+  - [Fighting Covid19 with CAIML](https://github.com/JavyNadeem/10-funded-projects.git)
+  - [Remote Monitoring Technology for Healthcare](https://github.com/javyNadeem/Algorithms-Practice)
   - [Artificial Intelligence Website Builders](https://github.com/javyNadeem/AD_PS)
-  - [Fighting COVID19 with CAIML](https://github.com/javyNadeem/AD_PS)
+  
 - <b>Tech User Guides</b>
   - [Linux Implementation Training Guide](https://github.com/javyNadeem/Sentinel-Lab)
   - [AWS DeepRacer User Guide](https://github.com/javyNadeem/Jwipe.PowerShell)
