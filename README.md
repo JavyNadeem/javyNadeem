@@ -3,7 +3,7 @@
 <h2>👨‍💻 Content Writing Samples:</h2>
 
 - <b>Articles on Healthcare Domain</b>
-  - [Fighting Covid19 with CAIML](https://github.com/JavyNadeem/10-funded-projects.git)
+  - [Fighting Covid19 with CAIML](https://github.com/JavyNadeem/Fighting-Covid19-with-CAIML.git)
   - [Remote Monitoring Technology for Healthcare](https://github.com/javyNadeem/Algorithms-Practice)
   
 - <b>Articles on Engineering Domain</b>
