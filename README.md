@@ -7,7 +7,7 @@
   - [Remote Monitoring Technology for Healthcare](https://github.com/JavyNadeem/RMTHealthcare.git)
   
 - <b>Articles on Engineering Domain</b>
-  - [Autonomous Robot Service](https://github.com/javyNadeem/Sentinel-Lab)
+  - [Autonomous Robot Service](https://github.com/JavyNadeem/RoboticEngineering.git)
   - [Geothermal Heat Pumps](https://github.com/javyNadeem/Jwipe.PowerShell)
 
 - <b>Articles on CS & IT Domain</b>
