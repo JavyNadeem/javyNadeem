@@ -13,7 +13,7 @@
 - <b>Articles on CS & IT Domain</b>
   - [Digital Twin in AI-IoT](https://github.com/JavyNadeem/AI-ML.git)
   - [Facial Recognition Technology FRT](https://github.com/JavyNadeem/FRTcompliance.git)
-  - [Migrating to Cloud Computing](https://github.com/javyNadeem/Jwipe.PowerShell)
+  - [Migrating to Cloud Computing](https://github.com/JavyNadeem/Cloudcomputing.git)
  
 - <b>User Training Guides</b>
   - [Linux Implementation Training Guide](https://github.com/javyNadeem/Sentinel-Lab)
