@@ -28,7 +28,7 @@
   
 - <b>Published Research</b>
   - [RF MEMS Capacitor](https://github.com/JavyNadeem/MEMSswitch.git)
-  - [RF MEMS Varactor](https://github.com/javyNadeem/Package-Delivery-Pathfinding-Algorithm)
+  - [RF MEMS Varactor](https://github.com/JavyNadeem/MEMSvaractor.git)
 
 
 <!--
