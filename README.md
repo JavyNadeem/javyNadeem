@@ -21,13 +21,13 @@
   
 - <b>Blogs for Website Content</b>
   - [CollabNow Video Messaging](https://github.com/JavyNadeem/CollabNow.git)
-  - [Nano Health Suite](https://github.com/javyNadeem/Sentinel-Lab)
+  - [Nano Health Suite](https://github.com/JavyNadeem/Nanosuite.git)
   
 - <b>Critical Reviews</b>
-  - [Confederate Monument](https://github.com/javyNadeem/Sentinel-Lab)
+  - [Confederate Monument](https://github.com/JavyNadeem/Criticalreview.git)
   
 - <b>Published Research</b>
-  - [RF MEMS Switch](https://github.com/javyNadeem/Package-Delivery-Pathfinding-Algorithm)
+  - [RF MEMS Capacitor](https://github.com/javyNadeem/https://ieeexplore.ieee.org/abstract/document/8940688)
   - [RF MEMS Varactor](https://github.com/javyNadeem/Package-Delivery-Pathfinding-Algorithm)
 
 
