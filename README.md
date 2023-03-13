@@ -11,7 +11,7 @@
   - [Geothermal Heat Pumps](https://github.com/JavyNadeem/HVACsystem.git)
 
 - <b>Articles on CS & IT Domain</b>
-  - [Digital Twin in AI-IoT](https://github.com/javyNadeem/Sentinel-Lab)
+  - [Digital Twin in AI-IoT](https://github.com/JavyNadeem/AI-ML.git)
   - [Facial Recognition Technology FRT](https://github.com/javyNadeem/Jwipe.PowerShell)
   - [Migrating to Cloud Computing](https://github.com/javyNadeem/Jwipe.PowerShell)
  
