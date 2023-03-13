@@ -27,7 +27,7 @@
   - [Confederate Monument](https://github.com/JavyNadeem/Criticalreview.git)
   
 - <b>Published Research</b>
-  - [RF MEMS Capacitor](https://github.com/javyNadeem/https://ieeexplore.ieee.org/abstract/document/8940688)
+  - [RF MEMS Capacitor](https://github.com/JavyNadeem/MEMSswitch.git)
   - [RF MEMS Varactor](https://github.com/javyNadeem/Package-Delivery-Pathfinding-Algorithm)
 
 
