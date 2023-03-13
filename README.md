@@ -16,11 +16,11 @@
   - [Migrating to Cloud Computing](https://github.com/JavyNadeem/Cloudcomputing.git)
  
 - <b>User Training Guides</b>
-  - [Linux Implementation Training Guide](https://github.com/javyNadeem/Sentinel-Lab)
-  - [AWS DeepRacer User Guide](https://github.com/javyNadeem/Jwipe.PowerShell)
+  - [Linux Implementation Training Guide](https://github.com/JavyNadeem/Linuxguide.git)
+  - [AWS DeepRacer User Guide](https://github.com/JavyNadeem/Deepracer.git)
   
 - <b>Blogs for Website Content</b>
-  - [CollabNow Video Messaging on Kubernetes](https://github.com/javyNadeem/Sentinel-Lab)
+  - [CollabNow Video Messaging](https://github.com/JavyNadeem/CollabNow.git)
   - [Nano Health Suite](https://github.com/javyNadeem/Sentinel-Lab)
   
 - <b>Critical Reviews</b>
