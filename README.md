@@ -12,7 +12,7 @@
 
 - <b>Articles on CS & IT Domain</b>
   - [Digital Twin in AI-IoT](https://github.com/JavyNadeem/AI-ML.git)
-  - [Facial Recognition Technology FRT](https://github.com/javyNadeem/Jwipe.PowerShell)
+  - [Facial Recognition Technology FRT](https://github.com/JavyNadeem/FRTcompliance.git)
   - [Migrating to Cloud Computing](https://github.com/javyNadeem/Jwipe.PowerShell)
  
 - <b>User Training Guides</b>
