@@ -8,7 +8,7 @@
   
 - <b>Articles on Engineering Domain</b>
   - [Autonomous Robot Service](https://github.com/JavyNadeem/RoboticEngineering.git)
-  - [Geothermal Heat Pumps](https://github.com/javyNadeem/Jwipe.PowerShell)
+  - [Geothermal Heat Pumps](https://github.com/JavyNadeem/HVACsystem.git)
 
 - <b>Articles on CS & IT Domain</b>
   - [Digital Twin in AI-IoT](https://github.com/javyNadeem/Sentinel-Lab)
