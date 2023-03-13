@@ -4,7 +4,7 @@
 
 - <b>Articles on Healthcare Domain</b>
   - [Fighting Covid19 with CAIML](https://github.com/JavyNadeem/Fighting-Covid19-with-CAIML.git)
-  - [Remote Monitoring Technology for Healthcare](https://github.com/javyNadeem/Algorithms-Practice)
+  - [Remote Monitoring Technology for Healthcare](https://github.com/JavyNadeem/RMTHealthcare.git)
   
 - <b>Articles on Engineering Domain</b>
   - [Autonomous Robot Service](https://github.com/javyNadeem/Sentinel-Lab)
