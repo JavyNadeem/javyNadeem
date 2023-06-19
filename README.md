@@ -1,6 +1,6 @@
-<h1>Hi, I'm Javaria! <br/><a href="https://github.com/javyNadeem">SEO Content Writer</a>, <a href="https://www.linkedin.com/in/javaria-nadeem-5294a547/">Writing Professional</a></h1>
+<h1>Hi, I'm Javaria! <br/><a href="https://github.com/javyNadeem">Data Analyst</a>, <a href="https://www.linkedin.com/in/javaria-nadeem-5294a547/">Technical Writer</a></h1>
 
-<h2>👨‍💻 Content Writing Portfolio</h2>
+<h2>👨‍💻 Technical Writing Portfolio</h2>
 
 - <b>Articles on Healthcare Domain</b>
   - [Fighting Covid19 with CAIML](https://github.com/JavyNadeem/Fighting-Covid19-with-CAIML.git)
