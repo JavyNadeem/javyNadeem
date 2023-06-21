@@ -3,6 +3,7 @@
 <h2>👨‍💻 Data Analysis Portfolio</h2>
 
 - <b>SQL - Guided Projects</b>
+
   - [Music_Store_DA_Project](https://github.com/JavyNadeem/Music_Store_DA_Project/blob/main/SQL-Music-Store-DA-Portfolio.sql)
 
 <h2>👨‍💻 Technical Writing Portfolio</h2>
