@@ -1,5 +1,8 @@
 <h1>Hi, I'm Javaria! <br/><a href="https://github.com/javyNadeem">Data Analyst</a>, <a href="https://www.linkedin.com/in/javaria-nadeem-5294a547/">Technical Writer</a></h1>
 
+<h2>👨‍💻 Data Analysis Portfolio</h2>
+
+
 <h2>👨‍💻 Technical Writing Portfolio</h2>
 
 - <b>Articles on Healthcare Domain</b>
