@@ -5,7 +5,7 @@
 - <b>SQL Projects - Ecommerce Domain</b>
 
   - [Music_Store_DA_Project](https://github.com/JavyNadeem/Music_Store_DA_Project/blob/main/SQL-Music-Store-DA-Portfolio.sql)
-  - [Food_Delivery_App_DA_Project](https://github.com/JavyNadeem/Music_Store_DA_Project/blob/main/SQL-Music-Store-DA-Portfolio.sql)
+  - [Food_Delivery_App_DA_Project](https://github.com/JavyNadeem/food_delivery_app_project/tree/main)
 
 
 <h2>👨‍💻 Technical Writing Portfolio</h2>
