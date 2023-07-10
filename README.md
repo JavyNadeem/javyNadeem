@@ -7,7 +7,7 @@
   - [Music_Store_DA_Project](https://github.com/JavyNadeem/Music_Store_DA_Project/blob/main/SQL-Music-Store-DA-Portfolio.sql)
   - [Food_Delivery_App_DA_Project](https://github.com/JavyNadeem/food_delivery_app_project/tree/main)
  
-  - <b>Excel Projects - Ecommerce Domain</b>
+- <b>Excel Projects - Ecommerce Domain</b>
 
   - [Sweets_Sales_DA_Project](https://github.com/JavyNadeem/sweets_sales_analysis/blob/main/Excel-Project-Sales-Analysis.xlsx)
 
